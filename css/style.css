@@ -136,6 +136,7 @@ input, textarea {
     color: #ffffff;
     padding: 5px 10px;
     margin-bottom: 10px;
+    font-size: 14px;
 }
 .topics dd {
     margin-left: 140px;
